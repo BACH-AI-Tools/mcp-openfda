@@ -1,6 +1,6 @@
 {
   "name": "bach-openfda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for OpenFDA Drug Label API - enables AI agents to query FDA drug information",
   "main": "dist/index.js",
   "type": "module",
@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rongquanfeng/mcp-openfda.git"
+    "url": "https://github.com/BACH-AI-Tools/mcp-openfda.git"
   },
   "bugs": {
-    "url": "https://github.com/rongquanfeng/mcp-openfda/issues"
+    "url": "https://github.com/BACH-AI-Tools/mcp-openfda/issues"
   },
-  "homepage": "https://github.com/rongquanfeng/mcp-openfda#readme",
+  "homepage": "https://github.com/BACH-AI-Tools/mcp-openfda#readme",
   "files": [
     "dist",
     "README.md",
