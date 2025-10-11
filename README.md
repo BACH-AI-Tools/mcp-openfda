@@ -11,13 +11,15 @@
   "mcpServers": {
     "openfda": {
       "command": "npx",
-      "args": ["-y", "mcp-openfda"]
+      "args": ["-y", "bach-openfda"]
     }
   }
 }
 ```
 
-保存配置后重启，`npx` 会自动从 npm 下载并运行最新版本的 mcp-openfda。
+保存配置后重启，`npx` 会自动从 npm 下载并运行最新版本的 bach-openfda。
+
+**包地址**: https://www.npmjs.com/package/bach-openfda
 
 ---
 
